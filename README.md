@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mizgin DURĞUN</h1>
-<h3 align="center">bla bla bla bla</h3>
+<h1 align="center">Hi 👋, I'm Tuna Kanbay</h1>
+<h3 align="center">i born in 2014 and my name is tuna.</h3>
 
 <center>
 <br>
